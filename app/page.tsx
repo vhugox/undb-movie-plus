@@ -5,7 +5,7 @@ import { useState, useEffect, FormEvent } from "react";
 const TMDB_API_KEY = "f78fe0ddcfa145e6215263de420949e8";
 const TMDB_BASE_URL = "https://api.themoviedb.org/3";
 const IMG_URL = "https://image.tmdb.org/t/p/w500";
-const OMDB_API_KEY = "demo"; 
+const OMDB_API_KEY = "def9824a"; 
 
 export default function Home() {
   // Adicionado <any[]> para o TypeScript não reclamar das listas
